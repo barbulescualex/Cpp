@@ -10,6 +10,3 @@ into histograms creating a new file witht the data output.
 SlidingWindowStats.cpp is able to compute statistics of quasi-sinusoidal data, that ranges over some period of
 time between a minimum and a maximum. Givin a window size it can produce the min, max, average, sample standard deviation and
 median of incoming data.
-
-HomeworkManagement.cpp uses classes to implement a linked list with dequeue and enqueue functions of various assignments. The
-assignments are assigned due dates, descriptions and course codes and are returned in terms of priority.
