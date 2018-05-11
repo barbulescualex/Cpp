@@ -1,5 +1,4 @@
 # Cpp
-A sample of applicable programs used to develop my C++ literacy
 
 DragForceSimulation.cpp uses discrete event simulation to calculate the initial velocity of an object undergoing air resistance needed to land at specific point given a target and an angle.
 
